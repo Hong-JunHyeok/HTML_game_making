@@ -2,7 +2,8 @@
 
 웹에서 게임을 만들어 보겠습니다. 
 js의 canvas를 사용하여서 하겠습니다(완벽한 설명이 아닐 수 있습니다!)
-#[완성물 바로가기](https://milky1234.github.io/HTML_game_making/.)
+
+[완성물 바로가기](https://milky1234.github.io/HTML_game_making/.)
 
 # 먼저 작업할 것은 캔버스에 동그라미를 그려보겠습니다.
 ```
